@@ -1,0 +1,379 @@
+[{
+	"nombre_victima": "María Godoy Labbé",
+	"edad_victima": 80,
+	"fecha_asesinato": "2017-03-18T03:00:00.000Z",
+	"region_asesinato": "Metropolitana",
+	"nombre_asesino": "Roberto Pereira Vega",
+	"edad_asesino": 77,
+	"relacion_asesino_victima": "marido"
+}, {
+	"nombre_victima": "María Elena Droguett Aguilar",
+	"edad_victima": 67,
+	"fecha_asesinato": "2017-05-02T03:00:00.000Z",
+	"region_asesinato": "O'Higgins",
+	"nombre_asesino": "Oscar del Carmen Castro Poblete",
+	"edad_asesino": 67,
+	"relacion_asesino_victima": "marido"
+}, {
+
+	"nombre_victima": "Iris de las Mercedes Peralta Moraga",
+	"edad_victima": 63,
+	"fecha_asesinato": "2017-01-20T03:00:00.000Z",
+	"region_asesinato": "Valparaíso",
+	"nombre_asesino": "Sergio Carmen Catalán Rivera",
+	"edad_asesino": 66,
+	"relacion_asesino_victima": "ex marido "
+}, {
+
+	"nombre_victima": "Josefina Allilef Huenchumil",
+	"edad_victima": 68,
+	"fecha_asesinato": "2017-05-22T04:00:00.000Z",
+	"region_asesinato": "Araucanía",
+	"nombre_asesino": "Mario Guido Domigual Cheuquian; José Edmundo Sandoval Muñoz",
+	"edad_asesino": 66,
+	"relacion_asesino_victima": "pareja; amigo"
+}, {
+
+	"nombre_victima": "Raquel Edelmira Einfalt Fiss",
+	"edad_victima": 58,
+	"fecha_asesinato": "2017-03-31T03:00:00.000Z",
+	"region_asesinato": "Valparaíso",
+	"nombre_asesino": "Joaquín Domingo Rengifo Álvarez",
+	"edad_asesino": 60,
+	"relacion_asesino_victima": "ex pareja"
+}, {
+
+	"nombre_victima": "Alicia Lourdes Cepeda Rojas",
+	"edad_victima": 64,
+	"fecha_asesinato": "2017-05-05T03:00:00.000Z",
+	"region_asesinato": "Coquimbo",
+	"nombre_asesino": "Cosme Damián Villalba Ramírez",
+	"edad_asesino": 60,
+	"relacion_asesino_victima": "pareja"
+}, {
+	"nombre_victima": "Rosa Ester Bahamondes Mardones",
+	"edad_victima": 36,
+	"fecha_asesinato": "2017-09-06T03:00:00.000Z",
+	"region_asesinato": "O'Higgins",
+	"nombre_asesino": "s.i.",
+	"edad_asesino": 58,
+	"relacion_asesino_victima": "pareja"
+}, {
+	"nombre_victima": "María Julissa Sánchez Cotrina",
+	"edad_victima": 40,
+	"fecha_asesinato": "2017-06-05T04:00:00.000Z",
+	"region_asesinato": "Metropolitana",
+	"nombre_asesino": "Juan Guillermo Muracami Mantilla",
+	"edad_asesino": 55,
+	"relacion_asesino_victima": "pareja"
+}, {
+	"nombre_victima": "Ruth Noemí Beroíza Anabalón",
+	"edad_victima": 48,
+	"fecha_asesinato": "2017-03-30T03:00:00.000Z",
+	"region_asesinato": "Metropolitana",
+	"nombre_asesino": "Bernabé Daniel Tapia González",
+	"edad_asesino": 55,
+	"relacion_asesino_victima": "esposo"
+}, {
+
+	"nombre_victima": "Andrea Riquelme Toledo",
+	"edad_victima": 34,
+	"fecha_asesinato": "2017-02-23T03:00:00.000Z",
+	"region_asesinato": "Bio Bio",
+	"nombre_asesino": "José Jacob Urra Contreras",
+	"edad_asesino": 53,
+	"relacion_asesino_victima": "ex marido"
+}, {
+
+	"nombre_victima": "Carola Ariztía Fuenzalida",
+	"edad_victima": 42,
+	"fecha_asesinato": "2017-10-20T03:00:00.000Z",
+	"region_asesinato": "O'Higgins",
+	"nombre_asesino": "Juan Carlos Vergara Díaz",
+	"edad_asesino": 53,
+	"relacion_asesino_victima": "conviviente"
+}, {
+
+	"nombre_victima": "Fidelina del Carmén Robledo Villalobos",
+	"edad_victima": 43,
+	"fecha_asesinato": "2017-07-28T04:00:00.000Z",
+	"region_asesinato": "Coquimbo",
+	"nombre_asesino": "Sergio de los Ángeles Torres Villalobos",
+	"edad_asesino": 52,
+	"relacion_asesino_victima": "marido"
+}, {
+
+
+	"nombre_victima": "Carmen Vásquez Contreras",
+	"edad_victima": 42,
+	"fecha_asesinato": "2017-02-06T03:00:00.000Z",
+	"region_asesinato": "Maule",
+	"nombre_asesino": "Salomón Silva Villar",
+	"edad_asesino": 45,
+	"relacion_asesino_victima": "marido"
+}, {
+
+
+	"nombre_victima": "Ruth María Erices Aniñir",
+	"edad_victima": 35,
+	"fecha_asesinato": "2017-02-05T03:00:00.000Z",
+	"region_asesinato": "Aysen",
+	"nombre_asesino": "José Antonio Paredes Montiel",
+	"edad_asesino": 43,
+	"relacion_asesino_victima": "conviviente"
+}, {
+
+
+	"nombre_victima": "Gladys Adriana González Osorio",
+	"edad_victima": 39,
+	"fecha_asesinato": "2017-04-16T03:00:00.000Z",
+	"region_asesinato": "Bio Bio",
+	"nombre_asesino": "Manuel Arístides Vergara Cabrera",
+	"edad_asesino": 43,
+	"relacion_asesino_victima": "marido"
+}, {
+
+
+	"nombre_victima": "Marisol Vergara Vergara",
+	"edad_victima": 46,
+	"fecha_asesinato": "2017-03-17T03:00:00.000Z",
+	"region_asesinato": "Bio Bio",
+	"nombre_asesino": "Miguel Victoriano Carrera",
+	"edad_asesino": 43,
+	"relacion_asesino_victima": "desconocido"
+}, {
+
+
+	"nombre_victima": "Ximena Fabiola Cortés Rojas",
+	"edad_victima": 32,
+	"fecha_asesinato": "2017-03-22T03:00:00.000Z",
+	"region_asesinato": "Antofagasta",
+	"nombre_asesino": "James Cristian Díaz Portus",
+	"edad_asesino": 41,
+	"relacion_asesino_victima": "marido"
+}, {
+
+	"nombre_victima": "María Angélica Sandoval Sandoval",
+	"edad_victima": 36,
+	"fecha_asesinato": "2017-12-31T03:00:00.000Z",
+	"region_asesinato": "Ñuble",
+	"nombre_asesino": "Miguel Ángel Sandoval Sandoval",
+	"edad_asesino": 40,
+	"relacion_asesino_victima": "ex pareja"
+}, {
+
+
+	"nombre_victima": "Yolanda Stela Jaramillo Naihual",
+	"edad_victima": 37,
+	"fecha_asesinato": "2017-12-08T03:00:00.000Z",
+	"region_asesinato": "Los Ríos",
+	"nombre_asesino": "Iván Daniel Acuña González",
+	"edad_asesino": 40,
+	"relacion_asesino_victima": "ex pareja"
+}, {
+
+	"nombre_victima": "Ámparo Lagos Martínez",
+	"edad_victima": 32,
+	"fecha_asesinato": "2017-03-29T03:00:00.000Z",
+	"region_asesinato": "Metropolitana",
+	"nombre_asesino": "Francisco Mallea",
+	"edad_asesino": 39,
+	"relacion_asesino_victima": "ex pareja"
+}, {
+
+	"nombre_victima": "Carolina Véliz",
+	"edad_victima": 36,
+	"fecha_asesinato": "2017-11-10T03:00:00.000Z",
+	"region_asesinato": "Metropolitana",
+	"nombre_asesino": "s.i.",
+	"edad_asesino": 39,
+	"relacion_asesino_victima": "conviviente"
+}, {
+
+
+	"nombre_victima": "Silvia Ninaja Condori",
+	"edad_victima": "s.i.",
+	"fecha_asesinato": "2017-01-24T03:00:00.000Z",
+	"region_asesinato": "Metropolitana",
+	"nombre_asesino": "Cirilo Paco Callata",
+	"edad_asesino": 38,
+	"relacion_asesino_victima": "esposo"
+}, {
+
+	"nombre_victima": "Karina Uribe Uribe",
+	"edad_victima": 31,
+	"fecha_asesinato": "2017-11-19T03:00:00.000Z",
+	"region_asesinato": "Los Ríos",
+	"nombre_asesino": "Emanuel Jesús Pineda Catricheo",
+	"edad_asesino": 35,
+	"relacion_asesino_victima": "conviviente"
+}, {
+
+
+	"nombre_victima": "Daisy Ester Millahual Parra",
+	"edad_victima": 25,
+	"fecha_asesinato": "2017-05-01T03:00:00.000Z",
+	"region_asesinato": "Bio Bio",
+	"nombre_asesino": "César Fernández Toledo",
+	"edad_asesino": 34,
+	"relacion_asesino_victima": "ex pareja"
+}, {
+
+
+	"nombre_victima": "Lisette Valentina Paz Ramos Vásquez",
+	"edad_victima": 26,
+	"fecha_asesinato": "2017-11-29T03:00:00.000Z",
+	"region_asesinato": "Metropolitana",
+	"nombre_asesino": "Luciano Francisco Silva Morales",
+	"edad_asesino": 34,
+	"relacion_asesino_victima": "conviviente"
+}, {
+
+
+	"nombre_victima": "Isidora Karen González Rojas",
+	"edad_victima": 22,
+	"fecha_asesinato": "2017-09-07T03:00:00.000Z",
+	"region_asesinato": "Metropolitana",
+	"nombre_asesino": "Guillermo Fabián Atenas Cornejo",
+	"edad_asesino": 33,
+	"relacion_asesino_victima": "pareja"
+}, {
+
+
+	"nombre_victima": "Karen Michea Valdebenito",
+	"edad_victima": 32,
+	"fecha_asesinato": "2017-05-14T04:00:00.000Z",
+	"region_asesinato": "O'Higgins",
+	"nombre_asesino": "José Muñoz Cáceres",
+	"edad_asesino": 33,
+	"relacion_asesino_victima": "pareja"
+}, {
+
+
+	"nombre_victima": "Paola Andrea Villalobos Mancilla",
+	"edad_victima": 43,
+	"fecha_asesinato": "2017-04-06T03:00:00.000Z",
+	"region_asesinato": "Los Lagos",
+	"nombre_asesino": "Michael Hernán Villanueva Aguilar",
+	"edad_asesino": 33,
+	"relacion_asesino_victima": "ex pareja"
+}, {
+
+
+	"nombre_victima": "Lorena Elizabeth Carrasco Aguilera",
+	"edad_victima": 33,
+	"fecha_asesinato": "2017-03-03T03:00:00.000Z",
+	"region_asesinato": "Antofagasta",
+	"nombre_asesino": "José Manuel Rojas Escobar",
+	"edad_asesino": 32,
+	"relacion_asesino_victima": "ex marido"
+}, {
+
+
+	"nombre_victima": "Susjes Mejías Díaz",
+	"edad_victima": 26,
+	"fecha_asesinato": "2017-11-04T03:00:00.000Z",
+	"region_asesinato": "Metropolitana",
+	"nombre_asesino": "Carlos Valera Rodríguez",
+	"edad_asesino": 31,
+	"relacion_asesino_victima": "conviviente"
+}, {
+
+
+	"nombre_victima": "Ana Lorena Acosta Esquivel",
+	"edad_victima": 27,
+	"fecha_asesinato": "2017-09-09T03:00:00.000Z",
+	"region_asesinato": "Coquimbo",
+	"nombre_asesino": "Amable Eliseo Larrondo Pérez",
+	"edad_asesino": 31,
+	"relacion_asesino_victima": "ex pareja"
+}, {
+
+
+	"nombre_victima": "Jaritza Figueroa Vargas",
+	"edad_victima": 20,
+	"fecha_asesinato": "2017-02-15T03:00:00.000Z",
+	"region_asesinato": "Metropolitana",
+	"nombre_asesino": "Ariel Ramírez Vergara",
+	"edad_asesino": 28,
+	"relacion_asesino_victima": "pareja"
+}, {
+
+
+	"nombre_victima": "Giannina Rioseco Bobadilla",
+	"edad_victima": 24,
+	"fecha_asesinato": "2017-03-15T03:00:00.000Z",
+	"region_asesinato": "Maule",
+	"nombre_asesino": "Segundo Eugenio Contreras Venegas",
+	"edad_asesino": 28,
+	"relacion_asesino_victima": "ex pareja"
+}, {
+
+
+	"nombre_victima": "Giselle Solange Olivares Tiznado",
+	"edad_victima": 22,
+	"fecha_asesinato": "2017-08-31T03:00:00.000Z",
+	"region_asesinato": "Aysen",
+	"nombre_asesino": "Yonathan Javier Serón Serón",
+	"edad_asesino": 27,
+	"relacion_asesino_victima": "ex pareja"
+}, {
+
+
+	"nombre_victima": "Paulina del Carmen Varela Viedma",
+	"edad_victima": 30,
+	"fecha_asesinato": "2017-06-13T04:00:00.000Z",
+	"region_asesinato": "Metropolitana",
+	"nombre_asesino": "Gabriel Ignacio Loza Toro",
+	"edad_asesino": 26,
+	"relacion_asesino_victima": "ex conviviente"
+}, {
+
+
+	"nombre_victima": "Maribel del Carmen Gormaz Ibacache",
+	"edad_victima": 26,
+	"fecha_asesinato": "2017-02-08T03:00:00.000Z",
+	"region_asesinato": "Metropolitana",
+	"nombre_asesino": "José Valenzuela",
+	"edad_asesino": 25,
+	"relacion_asesino_victima": "pareja"
+}, {
+
+
+	"nombre_victima": "Muriel Mazuelos Valenzuela",
+	"edad_victima": 18,
+	"fecha_asesinato": "2017-10-30T03:00:00.000Z",
+	"region_asesinato": "Metropolitana",
+	"nombre_asesino": "Cristian Silva Vásquez",
+	"edad_asesino": 22,
+	"relacion_asesino_victima": "conviviente"
+}, {
+
+	"nombre_victima": "Vania Zúñiga Latapiatt",
+	"edad_victima": 27,
+	"fecha_asesinato": "2017-08-28T03:00:00.000Z",
+	"region_asesinato": "Valparaíso",
+	"nombre_asesino": "Daniel Raúl Ortega Miranda",
+	"edad_asesino": 21,
+	"relacion_asesino_victima": "conviviente"
+}, {
+
+
+	"nombre_victima": "Daniela Valentina Reyes Espejo",
+	"edad_victima": 17,
+	"fecha_asesinato": "2017-02-28T03:00:00.000Z",
+	"region_asesinato": "Coquimbo",
+	"nombre_asesino": "David Espinoza Geraldo",
+	"edad_asesino": 19,
+	"relacion_asesino_victima": "conviviente"
+}, {
+
+
+	"nombre_victima": "Yanina Francesca Bravo Benavides",
+	"edad_victima": 32,
+	"fecha_asesinato": "2017-08-10T04:00:00.000Z",
+	"region_asesinato": "Metropolitana",
+	"nombre_asesino": "Michaelle Nicolás Lillo Maquian",
+	"edad_asesino": 19,
+	"relacion_asesino_victima": "pareja"
+}]
